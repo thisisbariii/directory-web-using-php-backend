@@ -2,7 +2,7 @@
 
 A small full-stack app for managing employee records: add, view, edit and delete, with search and pagination.
 
-**Live demo:**https://agatis.vercel.app/
+
 
 
 
